@@ -11,3 +11,8 @@ plany:
 zrobione: 
 
 - nic
+
+
+Doro:
+
+-Doruje
