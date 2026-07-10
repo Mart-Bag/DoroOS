@@ -3,7 +3,7 @@ my fucking os will doro itself
 
 plany:
 
-- linux kernel 7.0
+- linux kernel 7.1.3 (7.0 jest kruwa martwe)
 - liminie bootloader
 - bazowe gui: kde plasma
 - custom fastfetch
